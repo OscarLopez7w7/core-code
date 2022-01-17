@@ -1,6 +1,6 @@
 # core-code
 Core Code Bootcamp
-##Semana 1
+# Semana 1
 ## 1. Watch this video about compilation and interpretation
 Vídeo visto
 ## 2. Search and answer the question: Java language is compiled or interpreted?
