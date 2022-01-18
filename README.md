@@ -1,6 +1,6 @@
 # core-code
 Core Code Bootcamp
-# Semana 1
+# Semana 1 (Martes)
 ## 1. Watch this video about compilation and interpretation
 Vídeo visto
 ## 2. Search and answer the question: Java language is compiled or interpreted?
@@ -30,3 +30,29 @@ Leído
 Ayuda a tener una visión inicial de lo que queremos hacer, es el inicio de nuestro programa, a partir de un diagrama de flujo podemos observar posibles mejoras para nuestro objetivo final.
 ## 9. Search about High-level languages and Low-level languages, you can start with this video
 Vídeo visto
+
+# Semana 1 (Miércoles)
+## 1. Learn about binary, decimal and hexadecimal numbers
+Hecho
+## 2. Translate the year you where born to binary, decimal and hexadecimal
+Año de nacimiento
+Decimal: 1998
+Binario: 11111001110
+Hexadecimal: 7CE
+## 3. Translate 51966 into hexadecimal and binary
+Binario: 1100101011111110
+Hexadecimal: CAFE
+## 4. Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
+
+## 5. Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name
+
+
+# Semana 1 (Jueves)
+## 1. Search for real word applications of Javascript
+
+## 2. (optional but great) Watch this video
+Vídeo visto
+## 3. (optional but great) Watch this video
+Vídeo visto
+## 4. Follow the github course, you can find it here
+Curso visto
